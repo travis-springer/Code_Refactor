@@ -11,4 +11,4 @@ https://travis-springer.github.io/Code_Refactor/
 ## Screenshot
 
 ! [Horiseon Screenshot]
-(/assets/images/screenshot.png)
+(https://github.com/travis-springer/Code_Refactor/blob/main/assets/images/screenshot.png)
