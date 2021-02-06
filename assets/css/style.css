@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styling */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +48,8 @@ a {
     text-decoration: none;
 }
 
+/* Hero class styling */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -54,6 +58,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/* Main content block styling */
 
 .content {
     width: 75%;
@@ -93,6 +99,8 @@ p {
     font-size: 16px;
 }
 
+/* Side content block styling */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +127,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer styling */
 
 footer {
     padding: 30px;
