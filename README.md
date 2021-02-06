@@ -10,5 +10,4 @@ https://travis-springer.github.io/Code_Refactor/
 
 ## Screenshot
 
-![Horiseon Screenshot]
-(assets/images/screenshot.jpg)
+![Horiseon Screenshot](assets/images/screenshot.jpg)
